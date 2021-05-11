@@ -1,0 +1,26 @@
+body{
+    background-image: url("Qoute1.jpg");
+    
+}
+.container{
+    background-color:bisque;
+    background-color:gray;
+    border:6px solid #f5f4cf;
+    height:275px;
+    width:750px;
+    margin: 0 auto;
+    text-align: center;
+}
+#btn{
+    margin:50px auto;
+    height: 40px;
+    width:250px;
+    font-size:22px;
+    background-color:bisque;
+
+}
+.output{
+    margin:25px auto;
+    font-size:26px;
+    color:white;
+}
